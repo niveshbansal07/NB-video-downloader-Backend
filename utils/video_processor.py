@@ -31,9 +31,12 @@ class VideoProcessor:
         """
         try:
             # Configure yt-dlp options for info extraction
+            cookie_path = os.path.join(os.path.dirname(__file__), '..', 'config', 'cookies.txt')
+            
             ydl_opts = {
                 'quiet': True,
                 'no_warnings': True,
+                'cookiefile': cookie_path,
                 'extract_flat': False,
             }
             
@@ -253,4 +256,3 @@ class VideoProcessor:
 
 # Global instance
 video_processor = VideoProcessor()
-
