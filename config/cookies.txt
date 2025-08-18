@@ -1,0 +1,8 @@
+receive-cookie-deprecation	1	.doubleclick.net	/	2026-02-12T10:18:54.865Z	27	✓	✓	None	https://youtube.com	✓	Medium	
+SAPISID	wch9RoSSszFje2wn/AP09x88sLp5S4Fz3i	.youtube.com	/	2026-09-19T03:44:37.709Z	41		✓				High	
+SID	g.a0000Qhxd-W9apMjS7E9amh-tVKIFO4Ea_JLc_fTdlN7Wc3i9obpiiWEPIH7IdvflPteNGYzhAACgYKAV8SARMSFQHGX2Mikw5ePTDKSxbiXKVN4_8gfBoVAUF8yKpyoS9T1t7JQDK2s2G4hKw50076	.youtube.com	/	2026-09-19T03:44:37.710Z	156						High	
+SIDCC	AKEyXzXfQ2sRB8Tj2oW2TgGUMaW-Wm0rDfk7GN3sfZ1yQEJJp6WvtQV0IWPMjNzzYzqjMyqWTA	.youtube.com	/	2026-08-18T02:52:36.955Z	79						High	
+SSID	AXJdgyxxIgh3PLeIi	.youtube.com	/	2026-09-19T03:44:37.708Z	21	✓	✓				High	
+VISITOR_INFO1_LIVE	N7JSriKykWc	.youtube.com	/	2026-02-14T02:51:48.664Z	29	✓	✓	None	https://youtube.com		Medium	
+VISITOR_PRIVACY_METADATA	CgJJThIEGgAgVw%3D%3D	.youtube.com	/	2026-02-14T02:51:48.664Z	44	✓	✓	None	https://youtube.com		Medium	
+YSC	fyI8EOc7Ir8	.youtube.com	/	Session	14	✓	✓	None	https://youtube.com		Medium	
